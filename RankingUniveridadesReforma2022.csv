@@ -1,0 +1,44 @@
+﻿Carrera,Escuela,Ciudad,Fundación,Duración (años),Examen_admision,tasa_admision,primer_ingreso,reinscritos,matricula,egresados,titulados,num_docentes,porc_phd,num_sni,costo_inscripcion,costo_prom_colegiaturas,costo_titulacion,costo_total,calificación
+Administración,ITAM,CDMX,1946,4,Sí,49.00%,27,299,326,48,20,201,88.00%,48.00%,0,237718,20240,950873,8.99
+Administración,ITESM,CDMX,1943,4,Sí,70.00%,67,503,570,113,113,68,50.00%,5.00%,1500,257000,0,1028000,8.99
+Administración,Anáhuac,CDMX,1964,4,Sí,83.00%,147,616,763,33,33,375,37.00%,6.00%,25256,275866,12666,1103465,8.89
+Administración,U de Londres,CDMX,1980,3,Sí,90.00%,42,81,123,30,8,28,5.00%,0.00%,805,2599,15000,11199,
+Administración,U del Pedregal,CDMX,1990,4,Sí,88.00%,7,35,42,12,5,20,0.00%,0.00%,12530,96230,17000,502160,
+Administración,U del Tepeyac,CDMX,1975,4,Sí,95.00%,18,36,54,6,4,17,5.00%,0.00%,13000,70000,10000,280000,
+Administración,U ICEL,CDMX,1990,3,No,ND,ND,ND,ND,ND,10,2,ND,ND,0,2995,9080,11980,
+Administración,U Insurgentes,CDMX,1995,3,Sí,100.00%,519,1747,2266,172,138,385,3.00%,0.00%,0,20400,29346,64900,7.58
+Administración,U Justo Sierra Acueducto,CDMX,1991,4,Sí,100.00%,16,4,20,2,6,16,25.00%,0.00%,7565,81385,20980,325540,8.91
+Administración,U La Salle Condesa,CDMX,1962,4,Sí,100.00%,56,210,266,58,12,54,19.00%,4.00%,15197,151970,12775,620655,8.97
+Administración,U Latinoamericana Del Valle,CDMX,1976,2.8,No,95.00%,15,37,52,7,5,15,2.00%,0.00%,7980,87780,14500,287280,
+Administración,U Latinoamericana Florida,CDMX,1976,4,No,100.00%,11,18,29,10,6,11,18.00%,9.00%,7980,87780,14500,287280,
+Administración,U Latinoamericana Valle Dorado,EDOMEX,1976,3,No,100.00%,2,10,12,8,2,8,0.00%,0.00%,5740,68880,14500,206640,
+Administración,U Marista,CDMX,1993,4,No,95.00%,33,21,54,8,10,15,0.00%,0.00%,0,90000,12500,360000,
+Administración,U Mexicana Plantel Central,CDMX,1995,3.4,Sí,100.00%,87,261,348,37,16,19,0.00%,0.00%,4660,61140,58000,203800,8.26
+Administración,U Mexicana Cuautitlán,EDOMEX,1991,3.4,Sí,100.00%,148,496,644,172,53,104,2.00%,0.00%,3780,43860,5800,146200,8.26
+Administración,U Mexicana Satélite,EDOMEX,1994,3.4,Sí,100.00%,69,223,292,24,21,55,5.00%,0.00%,4350,48570,5800,161900,8.26
+Administración,U Panamericana,CDMX,1967,4.5,Sí,63.00%,164,497,661,88,57,226,18.00%,5.00%,22791,193127,16902,108887,9
+Administración,UNITEC,CDMX,1966,4,Sí,90.00%,1053,2232,3285,250,100,300,5.00%,ND,0,48000,15000,207000,8.58
+Administración,UVM Hispano,CDMX,1960,4.5,Sí,93.00%,37,46,83,2,7,23,0.00%,0.00%,6700,76200,15915,297600,8.53
+Administración,UVM Lomas Verdes,EDOMEX,1960,4.5,Sí,94.00%,62,31,93,14,7,26,0.00%,0.00%,8600,86000,16545,387000,8.53
+Administración,UVM San Rafael,CDMX,1960,4.5,Sí,86.00%,37,68,105,2,0,54,13.00%,0.00%,8600,86000,17040,481440,8.53
+Administración,UVM Tlalpan,CDMX,1960,4.5,Sí,93.00%,52,126,178,7,8,51,4.00%,0.00%,11560,102000,16350,413640,8.53
+Administración,Instituto Tecnológico de Tlalnepantla,EDOMEX,1972,4,Sí,60.00%,268,620,888,19,18,30,60.00%,0.00%,1000,5000,2000,25000,
+Administración,IPN ESCA Sto. Tomás,CDMX,1936,4,Sí,3.00%,125,129,254,17,12,557,5.00%,2.00%,0,0,403,0,
+Administración,TES Coacalco,CDMX,1996,4.5,Sí,74.00%,120,451,571,18,24,23,18.00%,10.00%,2500,5000,1189,5000,
+Administración,Tes Cuautitlán,EDOMEX,1997,4.5,Sí,100.00%,139,452,591,10,62,29,2.00%,0.00%,3656,7312,2322,33817,
+Administración,UAEM,CDMX,1956,4.5,Sí,57.00%,1113,3064,4177,407,120,276,9.00%,4.00%,1851,5639,4211,2820,8.53
+Administración,UAM Azcapotzalco,CDMX,1974,4,Sí,15.00%,195,1236,1431,116,55,52,58.00%,27.00%,128,514,24,2055,8.7
+Administración,UAM Cuajimalpa,CDMX,2005,4,Sí,10.00%,34,415,449,11,11,16,100.00%,94.00%,128,514,24,2055,8.7
+Administración,UAM Iztapalapa,CDMX,1974,4,Sí,14.00%,120,170,290,81,39,92,68.00%,32.00%,128,514,24,2055,8.7
+Administración,UAM Xochimilco,CDMX,1974,4,Sí,12.00%,110,349,459,149,29,76,67.00%,43.00%,128,514,24,2055,8.7
+Administración,UNAM CU,CDMX,1929,4,Sí,13.00%,1140,3328,4468,1484,234,535,9.00%,1.00%,1,1,1150,1158,8.96
+Administración,UNAM FES Cuautitlán,EDOMEX,1929,4.5,Sí,26.00%,577,1707,2284,339,41,206,20.00%,3.00%,1,1,2000,2009,8.96
+Administración,ISU Universidad,Puebla,2004,3,No,100.00%,21,38,59,7,3,34,4.00%,0.00%,2129,2200,13392,10645,
+Administración,U Benito Juárez G.,Puebla,1995,4,Sí,100.00%,32,21,53,10,5,7,0.00%,0.00%,1200,20600,19590,82400,
+Administración,U de Oriente,Puebla,1996,3.8,Sí,100.00%,31,6,96,7,2,18,2.00%,0.00%,2000,2300,11900,21520,
+Administración,U del Valle de Puebla,Puebla,1981,4,Sí,50.00%,43,79,122,23,7,32,4.00%,1.00%,6000,3300,16000,22500,
+Administración,U Iberoamericana,Puebla,1983,4,Sí,96.00%,35,131,166,13,14,25,16.00%,4.00%,9375,15000,11000,735000,9.56
+Administración,U UNIC,Puebla,2011,3,Sí,16.00%,16,17,33,6,3,10,2.00%,1.00%,2400,28000,21000,31000,
+Administración,UDLAP,Puebla,1940,4,Sí,53.00%,90,344,434,23,23,ND,ND,ND,11900,235940,17300,974360,
+Administración,UVM Puebla,Puebla,1960,4.5,Sí,70.00%,42,50,92,4,4,19,11.00%,0.00%,11715,117150,17530,527175,
+Administración,Instituto Tecnológico de Tehuacán,Puebla,1975,4.5,Sí,80.00%,80,310,390,50,40,18,5.00%,1.00%,1700,0,1800,3500,
